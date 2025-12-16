@@ -21,5 +21,4 @@ The winner is determined automatically based on which dice shows the higher valu
 - JavaScript (DOM Manipulation).
 
 ## 🖥️ Screenshot
-
-
+./dicescreenshot.png
